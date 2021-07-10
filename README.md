@@ -56,13 +56,13 @@ Response code: 200; Time: 215ms; Content length: 0 bytes
 
 #### Request
 
-```aidl
+```
 PUT http://localhost:8080/api/v1/student/1?name={updatedName}&email={updatedEmail@gmail.com}
 Content-Type: application/json
 ```
 
 #### Response
-```aidl
+```
 PUT http://localhost:8080/api/v1/student/1?name=newName&email=changedEmail%40gmail.com
 
 HTTP/1.1 200 
