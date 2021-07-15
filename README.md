@@ -1,6 +1,6 @@
 # Spring CRUD
 
-Foundation for implementing REST APIs using Spring with in-memory database PostgreSQL
+Foundation for implementing REST APIs using Spring and PostgreSQL
 
 ## Cloning 
 ```
